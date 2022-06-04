@@ -37,7 +37,7 @@ def main():
 # This ends the story
            endStory = 0
        elif(userInput == "F"):
-           print("goodbye, rerun python main.py to play")
+           print("goodbye, return python main.py to play")
 # This also ends the story
            endStory = 0
 

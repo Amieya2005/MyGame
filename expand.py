@@ -12,3 +12,4 @@ def newFunction(option):
     print("The user input:", option)
     localUserInput = input("please enter something new")
     return localUserInput
+Option_list = ["run", "stop", "fight"]
