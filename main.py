@@ -2,7 +2,8 @@
 # fill it in and tell a story that would be fun to play
 from Setting import *
 from intro_start import *
-from low_rank_monsters import *
+from Monsters import *
+
 # I use multiple modules as an example for you to try and replicate to keep your
 # story neat and get used to using them
 
@@ -18,7 +19,7 @@ def main():
    while(endStory > 1):
        # terminal prints can be over multiple lines using """ print """ format,
        # instead of the regular  "print" give it a try
-       #moduleReturn = nEwFunction
+       #moduleReturn = newFunction
        print("this is the start of a story, your story. This time you are the one taking control...")
        # this is how your story can take input and read it back out
        userInput = input("What is your name?: ")
@@ -36,14 +37,15 @@ def main():
        # catches common cases and check the user for options other than what
        # asked for.
        #EndStory > 1
-
+# Monsters = input()
+#^^ example but need to set Monsters to something
         # print("Are you Sure?")
          #userInput = input(""" y/n?   """)
      # if (userInput == "y"):
-       if userInput :="C" or userInput == "c":
+       if userInput := "C" or userInput == "c":
            print("You are a brave one. Well please follow me then ...")
            moduleReturns = newFunction(userInput)
-           #moduleReturns = NewFunction(mMonsters)
+           moduleReturns = troll(Monsters)
           # print(moduleReturns)
            print("This is just a demo, thanks you for playing. Goodbye  :)")
            #print("goodbye, rerun python main.py to play")
