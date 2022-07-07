@@ -1,6 +1,6 @@
 # This is a starter for a text based game in python.
 # fill it in and tell a story that would be fun to play
-
+from Setting import *
 from intro_start import *
 from low_rank_monsters import *
 # I use multiple modules as an example for you to try and replicate to keep your
@@ -18,6 +18,7 @@ def main():
    while(endStory > 1):
        # terminal prints can be over multiple lines using """ print """ format,
        # instead of the regular  "print" give it a try
+       #moduleReturn = nEwFunction
        print("this is the start of a story, your story. This time you are the one taking control...")
        # this is how your story can take input and read it back out
        userInput = input("What is your name?: ")
