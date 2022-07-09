@@ -4,9 +4,9 @@ import math
 
 #def newFuction():
     #class Troll(Monster):
-def troll(attack):
+def Monster(troll):
 
-# you can roll the dice between 1-10 and this would choos the mosnter the the assinged list
+# you can roll the dice between 1-5 and this would choos the mosnter the the assinged list
 
 
 

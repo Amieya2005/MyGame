@@ -37,7 +37,7 @@ def main():
        # catches common cases and check the user for options other than what
        # asked for.
        #EndStory > 1
-# Monsters = input()
+          # Monsters = input()
 #^^ example but need to set Monsters to something
         # print("Are you Sure?")
          #userInput = input(""" y/n?   """)
@@ -45,7 +45,7 @@ def main():
        if userInput := "C" or userInput == "c":
            print("You are a brave one. Well please follow me then ...")
            moduleReturns = newFunction(userInput)
-           moduleReturns = troll(Monsters)
+          # moduleReturns = Monster(ability)
           # print(moduleReturns)
            print("This is just a demo, thanks you for playing. Goodbye  :)")
            #print("goodbye, rerun python main.py to play")
@@ -53,8 +53,9 @@ def main():
            endStory = 0
        elif (userInput := "F" or userInput == "f"):
            print("Goodbye")
-         #if (userInput == "n"):
-             #print("That is okay, Goodbye...")
+
+       if (userInput == "n"):
+             print("That is okay, Goodbye...")
 # This also ends the story
            #endStory = 0
 

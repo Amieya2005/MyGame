@@ -26,7 +26,7 @@ def newFunction(option):
             print(""" This dungon is being at the top of the castle. You weren't chained to the wall like you heard in the rumors or in other countries (kinda dumb if you ask me. I'm just saying.).
         They just threw you in a enclosed room surrounded with nothing but old bricks that had been dying for years and a thick rusty metal bar that has a small vertical opening for the guards to slide mush food
         that had been out for weeks.
-        (personally i wouldn't touch that only eat food from my mom, Donato and his girlfriend <3 and Gordan Ramsay but that's just me).
+        (personally i wouldn't touch that only eat food from my mom <3 and Gordan Ramsay but that's just me).
         All until you saw something in the food that you where able to use to pick the lock (You welcome). You took your oportunity and escaped while they weren't looking...
 
                 Now you are a lone theif in the night sneaking around the castle looking for an escape...
