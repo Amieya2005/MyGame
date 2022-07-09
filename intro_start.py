@@ -19,9 +19,9 @@ def newFunction(option):
     #print("___" , option)
     localuserInput = input("Are you sure? y/n? ")
     if localuserInput == "y":
-            print("""You are a theif and his a skill for pickpoketing.
-        This was all until you decided to pickpoket one of the royal princes.
-        The prince and the guards caught you and you are now being dragged away to their dungon ...""")
+            print("""You are a theif and have a skill for pickpoketing.
+        This was all until you decided to pickpoket one of the royal princes of ___.
+        The prince and the guards caught you and you dragged away to their dungon ...""")
 
             print(""" This dungon is being at the top of the castle. You weren't chained to the wall like you heard in the rumors or in other countries (kinda dumb if you ask me. I'm just saying.).
         They just threw you in a enclosed room surrounded with nothing but old bricks that had been dying for years and a thick rusty metal bar that has a small vertical opening for the guards to slide mush food
